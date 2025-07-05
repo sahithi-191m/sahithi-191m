@@ -1,4 +1,8 @@
-Hi, I'M Manchi Reddy Sahithi
+I'M MANCHI REDDY SAHITHI
+# 💫 About Me:
+you can contact me at manchisahithi005@gmail.com<br>I'm learning front end development<br>I'm open to collaborating on intresting projects based on web development
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahithi_reddy__19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahithi manch) 
 
@@ -22,3 +26,4 @@ Hi, I'M Manchi Reddy Sahithi
 [![](https://visitcount.itsvg.in/api?id=sahithi-191m&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
