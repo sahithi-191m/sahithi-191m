@@ -1,4 +1,4 @@
-Hi,Manchi Reddy Sahithi
+Hi, I'M Manchi Reddy Sahithi
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahithi_reddy__19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahithi manch) 
 
